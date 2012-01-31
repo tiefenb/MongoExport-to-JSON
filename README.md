@@ -1,6 +1,8 @@
 MongoExport JSON to real JSON Converter (NodeJS)
 ==================================
 
+## A NodeJS Tool to convert MongoDB-Export JSON to real JSON
+
 [Node.js]: http://nodejs.org
 [Github repo]: https://github.com/tiefenb/MongoExport-to-JSON.git
 
